@@ -6,4 +6,4 @@ logging,sys,time,math,numpy,PIL,matplotlib,cv2,pylab,tensorflow
 run:
 cd /home/fall_down_pose_estimation
 python run.py --model=cmu --resize=432x368   (optional)
-result.txt
+the detect results are saved in result1.png,result2.png,result.txt
